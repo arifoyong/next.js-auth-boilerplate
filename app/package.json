@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "universal-cookie": "^4.0.3"
+  }
+}
